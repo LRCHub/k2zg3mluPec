@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "自分革命",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-16T12:10:05.812499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自分革命",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_自分革命_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自分革命",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_自分革命_Tani_Yuuki.txt"
+    }
+  ]
+}
